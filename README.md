@@ -6,7 +6,7 @@ Há algum tempo era necessário esforço significativo para configurar um ambien
 o Ambiente [Kyrios](http://kyrios.sourceforge.net/) para detalhes. O presente projeto é uma reedição daquele, 
 mas agora usando uma poderosa ferramenta: [Docker](https://www.docker.com/). 
 
-## Imagem base para Java
+## Imagens disponíveis
 
-- Dockerfile.jdk11
+- [jdk11](jdk11) - [Docker Hub](https://hub.docker.com/r/kyriosdata/jdk11/)
 
