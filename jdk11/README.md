@@ -1,6 +1,6 @@
 # jdk11
 
-Imagem que serve de base para execução de aplicação em Java.
+Imagem que serve de base para execução de aplicação em Java. Esta imagem é montada conforme a generosa explanação disponível [aqui](https://qiita.com/h-r-k-matsumoto/items/1725fc587ce127671560).
 
 ## Docker hub
 
