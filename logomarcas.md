@@ -6,3 +6,4 @@
 - [github](https://github.com/logos)
 - [Kotlin](https://commons.m.wikimedia.org/wiki/File:Kotlin-logo.svg)
 - [Rust](https://www.rust-lang.org/policies/media-guide)
+- [WebAssembly](https://github.com/WebAssembly/design/issues/980)
