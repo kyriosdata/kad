@@ -5,9 +5,9 @@ o Ambiente [Kyrios](http://kyrios.sourceforge.net/) para detalhes. Felizmente es
 de instrumentos que facilitam este trabalho. O presente projeto é uma reedição daquele supracitado, agora, contudo,
 com o apoio de [Docker](https://www.docker.com/). 
 
-## Lista inicial de ferramentas
+## Ferramentas e tecnologias
 
-O conjunto de ferramentas, por enquanto, está disponível [aqui](https://docs.google.com/document/d/1kiniQskETRJu6T3-n5gAvYfKyh11xKVsJ8FkqNSGW6g/edit?usp=sharing). Em futuro próximo esperados que todas as ferramentas citadas nesta lista, estejam disponíveis via o emprego de Docker.
+O conjunto de ferramentas e tecnologias, por enquanto, está disponível [aqui](https://docs.google.com/document/d/1kiniQskETRJu6T3-n5gAvYfKyh11xKVsJ8FkqNSGW6g/edit?usp=sharing). Em futuro próximo espera-se que todo o conjunto esteja disponível via o emprego de Docker. 
 
 ## Visão inicial
 
