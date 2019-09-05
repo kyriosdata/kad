@@ -7,3 +7,4 @@
 - [Kotlin](https://commons.m.wikimedia.org/wiki/File:Kotlin-logo.svg)
 - [Rust](https://www.rust-lang.org/policies/media-guide)
 - [WebAssembly](https://github.com/WebAssembly/design/issues/980)
+- [LLVM](https://llvm.org/Logo.html)
