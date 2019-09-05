@@ -3,7 +3,7 @@
 Há algum tempo consumi esforço significativo para configurar um ambiente de desenvolvimento de software. Veja 
 o Ambiente [Kyrios](http://kyrios.sourceforge.net/) para detalhes. Felizmente este esforço foi reduzido por meio da introdução 
 de instrumentos que facilitam este trabalho. O presente projeto é uma reedição daquele supracitado, agora, contudo,
-usando uma poderosa ferramenta: [Docker](https://www.docker.com/). 
+com o apoio de [Docker](https://www.docker.com/). 
 
 ## Lista inicial de ferramentas
 
