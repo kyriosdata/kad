@@ -9,6 +9,8 @@ Utilitários (linha de comandos)
 
 - logo para utilitarios pode ser tela de prompt, shell.
 
+Linguagens de programação (e outras)
+- [Java](https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg)
 - [git](https://git-scm.com/downloads/logos)
 - [github](https://github.com/logos)
 - [Kotlin](https://commons.m.wikimedia.org/wiki/File:Kotlin-logo.svg)
