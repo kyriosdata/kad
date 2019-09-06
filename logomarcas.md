@@ -11,13 +11,17 @@ Utilitários (linha de comandos)
 
 Linguagens de programação (e outras)
 - [Java](https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg)
-- [git](https://git-scm.com/downloads/logos)
-- [github](https://github.com/logos)
+- [JavaScript](https://commons.wikimedia.org/wiki/File:JavaScript-logo.png)
 - [Kotlin](https://commons.m.wikimedia.org/wiki/File:Kotlin-logo.svg)
 - [Rust](https://www.rust-lang.org/policies/media-guide)
 - [WebAssembly](https://github.com/WebAssembly/design/issues/980)
 - [LLVM](https://llvm.org/Logo.html)
 - [Swift](https://developer.apple.com/swift/downloads/swift-logo.zip)
+
+Infraestrutura
+
+- [git](https://git-scm.com/downloads/logos)
+- [github](https://github.com/logos)
 
 
 Plataformas de desenvolvimento
