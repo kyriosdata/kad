@@ -15,6 +15,8 @@ Utilitários (linha de comandos)
 - [Rust](https://www.rust-lang.org/policies/media-guide)
 - [WebAssembly](https://github.com/WebAssembly/design/issues/980)
 - [LLVM](https://llvm.org/Logo.html)
+- [Swift](https://developer.apple.com/swift/downloads/swift-logo.zip)
+
 
 Plataformas de desenvolvimento
 
