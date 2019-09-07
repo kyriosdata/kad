@@ -18,6 +18,10 @@ Linguagens de programação (e outras)
 - [LLVM](https://llvm.org/Logo.html)
 - [Swift](https://developer.apple.com/swift/downloads/swift-logo.zip)
 - [HTML5](https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg)
+- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#/media/File:CSS3_logo_and_wordmark.svg)
+
+Frameworks (UI)
+- [Bulma](https://github.com/jgthms/bulma/blob/master/docs/images/bulma-logo.png)
 
 Infraestrutura
 
