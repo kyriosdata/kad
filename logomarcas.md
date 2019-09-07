@@ -17,7 +17,7 @@ Linguagens de programação (e outras)
 - [WebAssembly](https://github.com/WebAssembly/design/issues/980)
 - [LLVM](https://llvm.org/Logo.html)
 - [Swift](https://developer.apple.com/swift/downloads/swift-logo.zip)
-- [HTML5](https://www.w3.org/html/logo/)
+- [HTML5](https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg)
 
 Infraestrutura
 
