@@ -22,6 +22,8 @@ Linguagens de programação (e outras)
 
 Frameworks (UI)
 - [Bulma](https://github.com/jgthms/bulma/blob/master/docs/images/bulma-logo.png)
+- [React](https://worldvectorlogo.com/logo/react)
+- [Handlebars](https://handlebarsjs.com/)
 
 Infraestrutura
 
