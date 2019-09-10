@@ -19,6 +19,7 @@ Linguagens de programação (e outras)
 - [Swift](https://developer.apple.com/swift/downloads/swift-logo.zip)
 - [HTML5](https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg)
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#/media/File:CSS3_logo_and_wordmark.svg)
+- [C](https://seeklogo.com/vector-logo/306166/c-programming-language) 
 
 Frameworks (UI)
 - [Bulma](https://github.com/jgthms/bulma/blob/master/docs/images/bulma-logo.png)
