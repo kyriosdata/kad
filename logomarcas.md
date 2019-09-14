@@ -2,6 +2,7 @@ Sistema operacional
 - [ubuntu](https://design.ubuntu.com/brand/ubuntu-logo/) (desktop)
 - [Android](https://commons.wikimedia.org/wiki/File:Android_robot.svg) (dispositivos)
 - [MacOS](https://www.logospng.com/mac-os-wordmarksvg-wikimedia-commons-33394-png.html)
+- [iOS](https://commons.wikimedia.org/w/index.php?search=apple+ios&title=Special%3ASearch&go=Go&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Apple_iOS_2013.png)
 
 Textos e modelos
 - [Google Docs](https://www.google.com/search?q=google+docs+logo&oq=google+docs+logo&aqs=chrome.0.69i59j0l2.15771j0j9&client=ms-android-samsung&sourceid=chrome-mobile&ie=UTF-8)
